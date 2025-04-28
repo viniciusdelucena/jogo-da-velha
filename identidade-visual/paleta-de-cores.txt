@@ -1,0 +1,8 @@
+# Paleta de Cores para Jogo da Velha
+
+backgroundLight: cor de fundo principal (bem clara) -> #f8f69f
+backgroundDark: cor de fundo secundário -> #bab986
+tileDefault: cor padrão das casas -> #7c7b6c
+tileSelected: cor das casas marcadas -> #3e3e53
+tileHighlight: cor de destaque para casas vencedoras -> #000039
+
